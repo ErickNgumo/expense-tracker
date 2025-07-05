@@ -1,0 +1,13 @@
+# Personal data
+expenses.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings (optional, if you use VS Code)
+.vscode/
+
+# Virtual environments (if you create one later)
+env/
+venv/
