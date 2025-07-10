@@ -1,4 +1,4 @@
-# Expense Tracker 🧾
+# Expense Tracker 
 
 A simple CLI-based Expense Tracker built in Python.
 
@@ -6,7 +6,7 @@ Track your daily spending, categorize expenses, and calculate total expenditures
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add and categorize expenses
 - View all expense records
@@ -16,6 +16,4 @@ Track your daily spending, categorize expenses, and calculate total expenditures
 - Automatically saves with date and row numbers
 
 ---
-
-## 📂 File Structure
 
