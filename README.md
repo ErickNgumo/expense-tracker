@@ -1,23 +1,21 @@
 # Expense Tracker 🧾
 
-A simple command-line Python app that helps users record and track their daily expenses.
+A simple CLI-based Expense Tracker built in Python.
 
-## Features
+Track your daily spending, categorize expenses, and calculate total expenditures using a CSV-based local database.
 
-- ✅ Add expenses with category and amount
-- ✅ View all recorded expenses
-- ✅ Calculate total expenditure
+---
 
-## How It Works
+## 🚀 Features
 
-Expenses are stored in a local CSV file (`expenses.csv`) to simulate a lightweight database.
+- Add and categorize expenses
+- View all expense records
+- Filter by date or category
+- Calculate total spending
+- Delete specific expenses
+- Automatically saves with date and row numbers
 
-### Example
+---
 
-```bash
-Track your Expenses!
-Options:
-1: Add an expense
-2: View your expenses
-3: View your total expenditure
-4: Exit
+## 📂 File Structure
+
